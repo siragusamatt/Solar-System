@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\matthew\documents\fall2016\csit 462 computer graphics\graphicsfinalproject\graphicsfinalproject\source.cpp(71): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\matthew\documents\fall2016\csit 462 computer graphics\graphicsfinalproject\graphicsfinalproject\source.cpp(75): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\matthew\documents\fall2016\csit 462 computer graphics\graphicsfinalproject\graphicsfinalproject\source.cpp(130): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\fall2016\csit 462 computer graphics\graphicsfinalproject\graphicsfinalproject\source.cpp(131): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GraphicsFinalProject.vcxproj -> C:\Users\Matthew\Documents\Fall2016\CSIT 462 Computer Graphics\GraphicsFinalProject\Debug\GraphicsFinalProject.exe
